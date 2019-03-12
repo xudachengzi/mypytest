@@ -1,0 +1,78 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1552357563840" stop="1552357564917">
+  <name>my_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1552357563840" status="passed" stop="1552357564686">
+      <name>H:\my_pytest\my_test\test_demo1.test_01.test1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9360-MainThread"/>
+        <label name="host" value="SC-201812191507"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552357564687" status="passed" stop="1552357564912">
+      <name>H:\my_pytest\my_test\test_demo1.test_01.test2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9360-MainThread"/>
+        <label name="host" value="SC-201812191507"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552357564913" status="passed" stop="1552357564914">
+      <name>H:\my_pytest\my_test\test_demo1.test_server.test_send_http</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9360-MainThread"/>
+        <label name="host" value="SC-201812191507"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552357564914" status="passed" stop="1552357564915">
+      <name>H:\my_pytest\my_test\test_demo1.test_server.test_something_quick</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9360-MainThread"/>
+        <label name="host" value="SC-201812191507"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552357564915" status="passed" stop="1552357564916">
+      <name>H:\my_pytest\my_test\test_demo1.test_server.test_another</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9360-MainThread"/>
+        <label name="host" value="SC-201812191507"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552357564917" status="passed" stop="1552357564917">
+      <name>H:\my_pytest\my_test\test_demo1.test_server.TestCase.test_method</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9360-MainThread"/>
+        <label name="host" value="SC-201812191507"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,85 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SC-201812191507",
+    "children" : [ {
+      "name" : "9360-MainThread",
+      "children" : [ {
+        "name" : "H:\\my_pytest\\my_test\\test_demo1.test_01.test2",
+        "uid" : "f21ce6ba4e32a39b",
+        "parentUid" : "b4f301425f1141960df266bcc4392ab4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552357564687,
+          "stop" : 1552357564912,
+          "duration" : 225
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.test_something_quick",
+        "uid" : "d715740e00925a7e",
+        "parentUid" : "b4f301425f1141960df266bcc4392ab4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552357564914,
+          "stop" : 1552357564915,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "H:\\my_pytest\\my_test\\test_demo1.test_01.test1",
+        "uid" : "3794053ddfaf047b",
+        "parentUid" : "b4f301425f1141960df266bcc4392ab4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552357563840,
+          "stop" : 1552357564686,
+          "duration" : 846
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.test_another",
+        "uid" : "bd1d66086913f86a",
+        "parentUid" : "b4f301425f1141960df266bcc4392ab4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552357564915,
+          "stop" : 1552357564916,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.TestCase.test_method",
+        "uid" : "ef2221a92d488feb",
+        "parentUid" : "b4f301425f1141960df266bcc4392ab4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552357564917,
+          "stop" : 1552357564917,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.test_send_http",
+        "uid" : "8672f76f9e5a844a",
+        "parentUid" : "b4f301425f1141960df266bcc4392ab4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552357564913,
+          "stop" : 1552357564914,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b4f301425f1141960df266bcc4392ab4"
+    } ],
+    "uid" : "d9533c19579f0e88e44f1ff77c1dfbb1"
+  } ]
+}

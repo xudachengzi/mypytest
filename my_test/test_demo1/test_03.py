@@ -1,8 +1,8 @@
 import pytest
-import request
+import requests
 
-host_data = ['http://http://112.13.89.101:9011',
-             'http://http://zhrd.nbrd.gov.cn/media/npc_pc/static/page/login/index.html']
+host_data = 'http://http://112.13.89.101:9011'
+
 
 user_data = [
     {

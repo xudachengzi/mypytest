@@ -1,0 +1,7 @@
+"Status","Name","Duration in ms","Description"
+"passed","my_test.H:\my_pytest\my_test\test_demo1.test_01.test2","225",""
+"passed","my_test.H:\my_pytest\my_test\test_demo1.test_server.test_something_quick","1",""
+"passed","my_test.H:\my_pytest\my_test\test_demo1.test_01.test1","846",""
+"passed","my_test.H:\my_pytest\my_test\test_demo1.test_server.test_another","1",""
+"passed","my_test.H:\my_pytest\my_test\test_demo1.test_server.TestCase.test_method","0",""
+"passed","my_test.H:\my_pytest\my_test\test_demo1.test_server.test_send_http","1",""

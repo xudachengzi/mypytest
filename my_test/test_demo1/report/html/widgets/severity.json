@@ -1,0 +1,61 @@
+[ {
+  "uid" : "3794053ddfaf047b",
+  "name" : "H:\\my_pytest\\my_test\\test_demo1.test_01.test1",
+  "time" : {
+    "start" : 1552357563840,
+    "stop" : 1552357564686,
+    "duration" : 846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f21ce6ba4e32a39b",
+  "name" : "H:\\my_pytest\\my_test\\test_demo1.test_01.test2",
+  "time" : {
+    "start" : 1552357564687,
+    "stop" : 1552357564912,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef2221a92d488feb",
+  "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.TestCase.test_method",
+  "time" : {
+    "start" : 1552357564917,
+    "stop" : 1552357564917,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8672f76f9e5a844a",
+  "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.test_send_http",
+  "time" : {
+    "start" : 1552357564913,
+    "stop" : 1552357564914,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d715740e00925a7e",
+  "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.test_something_quick",
+  "time" : {
+    "start" : 1552357564914,
+    "stop" : 1552357564915,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd1d66086913f86a",
+  "name" : "H:\\my_pytest\\my_test\\test_demo1.test_server.test_another",
+  "time" : {
+    "start" : 1552357564915,
+    "stop" : 1552357564916,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
